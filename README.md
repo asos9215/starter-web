@@ -7,6 +7,9 @@ to use Git and Github together.
 
 This repository is for showing how Git and GitHub work
 
+This is an exmaple to show different parts of the Git repository
+and various commands using a web project.
+
 ## Purpose
 
 ## Deployment
