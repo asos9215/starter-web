@@ -24,6 +24,8 @@ file system.
 
 ##How to contribute
 
+Please fork this repository and then issue Pull Request for review.
+
 ###CopyRight Notice
 
 2016 Git.Training
