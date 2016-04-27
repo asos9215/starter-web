@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-Adding more text. for rebasing example.
+Adding more text. for rebasing example. 
+Then more changes from myfeature branch too.
 
 This is a simple website projects for showing how
 to use Git and Github together.
